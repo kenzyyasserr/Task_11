@@ -1,0 +1,1 @@
+img=cv2.resize(photo,None,fx=900/photo.shape[1],fy=900/photo.shape[0])
