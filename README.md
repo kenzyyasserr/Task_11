@@ -17,4 +17,6 @@ Mapping hue ranges to colour names
 - **Annotation:**
 Drawing contours on the image
 Labelling each shape with its colour
-Saving the output (Here is the final output btw: 
+Saving the output (Here is the final output btw: https://drive.google.com/file/d/1xYd5m90tSpCj_cRl7WagLV4nRHa9DnK8/view?usp=sharing)
+
+**Unfortunate note:** I wasn't able to detect the colour of the top left triangle for unknown reasons. Also, the red lines are detected as green lines and I have no idea why
